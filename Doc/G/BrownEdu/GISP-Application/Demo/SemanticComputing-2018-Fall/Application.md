@@ -49,6 +49,10 @@ FacultySponsorPraises=
 
 FacultySponsorStatement=
 
-Supplements=
+Supplements=<ol><li>{Topic.Sec}<li>{Bibliography.Sec}</ol>
+
+Topic.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Topics/0.md]
+
+Bibliography.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Bibliography/0.md]
 
 =[G/BrownEdu/GISP-Application/Form/0.md]
