@@ -6,7 +6,11 @@ GISP.Semester=Fall
 
 GISP.Year=2018
 
-IncludeTheTable=List of participants!!!
+Person.GTH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/GTH/0.md]
+
+Person.JGH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Interviewee/JGH/0.md]
+
+Student.sec=<ol><li>{Person.GTH.Name.Full}</ol>
 
 Purpose of your course=To study and participate in the development of an open source platform for semantic computing and a system of federated legal codes for contracts and other legal domains based on "Prose Objects" that is compatible with smart contracts, distributed access systems and blockchains.
 
@@ -18,7 +22,12 @@ Goals of course=To bring together the very disparate strands of a single problem
 
 ScholarlyContext=This spans an extremely broad range of disciplines, from CS (semantic web, distributed computing, programming languages) to legal (document drafting, dispute resolution, governance)
 
+/=Note - for each week, copy this, change 1 to 2, etc. and make a copy of the target file, changing its name.  Fill in the target info.
+
 Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/1/0.md]
+
+
+
 
 CourseStructure=Each week will consist of the participants preparing for an interview with a specialist, conducting the interview (usually by video-conference), preparing responsive materials that add to the solution and presenting the solution to the expert in a second conference.
 
