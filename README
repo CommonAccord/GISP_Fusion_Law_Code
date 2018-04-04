@@ -1,0 +1,3 @@
+# CommonAccord
+
+This is the repo used as the source for Heroku to host the commonaccord.org (and www.commonaccord.org) website.  This repo includes many of the other repos - notably the /G/ "prose object" repos.  The ones that end in -CmA.
