@@ -8,9 +8,13 @@ GISP.Year=2018
 
 Person.GTH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/GTH/0.md]
 
+Person.WS.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/WS/0.md]
+
+Person.DR.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/DR/0.md]
+
 Person.JGH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Interviewee/JGH/0.md]
 
-Student.sec=<ol><li>{Person.GTH.Name.Full}</ol>
+Student.sec=<ol><li>{Person.GTH.Name.Full} <li>{Person.WS.Name.Full} <li>{Person.DR.Name.Full}</ol>
 
 Purpose of your course=To study and participate in the development of an open source platform for semantic computing and a system of federated legal codes for contracts and other legal domains based on "Prose Objects" that is compatible with smart contracts, distributed access systems and blockchains.
 
