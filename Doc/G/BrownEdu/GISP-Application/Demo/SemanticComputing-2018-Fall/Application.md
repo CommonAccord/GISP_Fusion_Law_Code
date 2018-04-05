@@ -30,7 +30,7 @@ ScholarlyContext=This spans an extremely broad range of disciplines, from CS (se
 
 Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/JGH-OpenSourceLaw/0.md]
 
-
+Syllabus.14.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/Blank/0.md]
 
 CourseStructure=Each week will consist of the participants preparing for an interview with a specialist, conducting the interview (usually by video-conference), preparing responsive materials that add to the solution and presenting the solution to the expert in a second conference.
 
