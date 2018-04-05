@@ -28,8 +28,7 @@ ScholarlyContext=This spans an extremely broad range of disciplines, from CS (se
 
 /=Note - for each week, copy this, change 1 to 2, etc. and make a copy of the target file, changing its name.  Fill in the target info.
 
-Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/1/0.md]
-
+Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/JGH-OpenSourceLaw/0.md]
 
 
 
@@ -53,10 +52,10 @@ FacultySponsorPraises=
 
 FacultySponsorStatement=
 
-Supplements=<ol><li>{Topic.Sec}<li>{Bibliography.Sec}</ol>
+Supplements=<ol><li>{Topic.Sec}<li>{CourseBibliography.Sec}</ol>
 
 Topic.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Topics/0.md]
 
-Bibliography.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Bibliography/0.md]
+CourseBibliography.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Bibliography/0.md]
 
 =[G/BrownEdu/GISP-Application/Form/0.md]
