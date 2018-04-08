@@ -32,7 +32,8 @@ Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/J
 
 Syllabus.14.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/Blank/0.md]
 
-CourseStructure=Each week will consist of the participants preparing for an interview with a specialist, conducting the interview (usually by video-conference), preparing responsive materials that add to the solution and presenting the solution to the expert in a second conference.
+CourseStructure=Each week will consist of the participants preparing for an interview with a specialist, conducting the interview (usually by video-conference), preparing responsive materials that add to the solution and presenting the solution to the expert in a second
+conference.
 
 Impact=Systems of transacting absorb a vast amount of human energy and capital, and have tended to favor concentration.  A standards-based approach can radically reduce the friction and reduce the optimal size of "firms" (Coase).  This can help to improve real productivity and distribute power more widely.  There are currently important projects working in this direction.  Prose Objects, and the law seem able to unite many of these trends.  The GISP will contribute where it can, study and make recommendations to the University on the impacts of semantic computing.
 
@@ -44,7 +45,9 @@ EvaluationPercentageTable=
 
 EvaluationExplanation=
 
-MeetingTimes=
+MeetingTimes={Week.Meetings}
+
+Week.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/Template/0.md]
 
 StudentIndividualContribution=
 
