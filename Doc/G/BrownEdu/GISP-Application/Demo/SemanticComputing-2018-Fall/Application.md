@@ -1,22 +1,26 @@
 ISP/GISP/AI=GISP
 
-Title of your GISP=Semantic Computing for the Arts and Sciences
+Title of your GISP=The Fusion of Law and Code: the Future of Law, Management and Governance
 
 GISP.Semester=Fall
 
 GISP.Year=2018
 
-Person.GTH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/GTH/0.md]
+Person.GTH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/GTH/0.md]
 
-Person.WS.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/WS/0.md]
+Person.WS.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/WS/0.md]
 
-Person.DR.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Student/DR/0.md]
+Person.DR.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/DR/0.md]
 
-Person.JGH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Interviewee/JGH/0.md]
+Person.SPR.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/SPR/0.md]
+
+Person.JGH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/JGH/0.md]
 
 Student.sec=<ol><li>{Person.GTH.Name.Full} <li>{Person.WS.Name.Full} <li>{Person.DR.Name.Full}</ol>
 
-Purpose of your course=To radically improve transacting, legal dealings and democratic governance by studying and applying some fundamental principles from open source-software development. In specific, to explore the "Prose Objects" model and its interactions with legal codification efforts, smart contracts, distributed data models. We will explore how to create decentralized, privacy-preserving wikis precisely tailored for every situation. The principle is to specify new cases simply by referencing existing ones and marking only what is different.
+Faculty.sec={Person.SPR.N/A/T/E}
+
+Purpose of your course=To radically improve transacting, legal dealings and democratic governance by studying and applying some fundamental principles from open source-software development. In specific, to explore the "Prose Objects" semantic computing model that is at the intersection of legal codification, smart contracts and distributed data models. We will explore how to create decentralized, privacy-preserving wikis of automated legal "objects" precisely tailored for every situation. The principle is to specify new cases simply by referencing existing ones and marking only what is different.
 
 Guiding questions={Question.Sec}
 
