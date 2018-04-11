@@ -41,15 +41,19 @@ Goal.0.sec=Learning goals:
 
 Goal.1.sec=To be able to critically evaluate the history and meaning of a series of highly controversial terms around the fields of Code, Law, and transacting.
 
-Goal.2.sec=To engineer code solutions that demonstrate the vision of open source transacting and encourage convergence on standards.
+Goal.2.sec=To clearly communicate how Law, Management and Governance can be made radically more efficient by structuring prose.
 
-Goal.3.sec=To study and design with the core ideas and social physics of law.
+Goal.4.sec=To critically understand and explain how structured, semantic prose enables the democratization of Law, empowerment of smaller structures and decentralized, secure data. Communication in this course involves writing, speaking, and visualization (User Interface, Data Visualization).
 
-Goal.4.sec=To enable and encourage the creation of federated wikis of legal documents.
+Goal.3.sec=To work with and engineer code solutions that demonstrate the vision of open source transacting and encourage convergence on standards.
 
-Goal.=[G/Z/ol-bullet/s4]
+Goal.4.sec=To study and design with law's core ideas and social physics.
 
-ScholarlyContext=This spans a broad range of disciplines, from CS (semantic web, distributed computing, programming languages) to legal (document drafting, dispute resolution, governance) The dilemma of "Code is Law," "Code as Law," and "Codified Law," is fundamental to the shape and governance of society in the information era. What we mean by the shape: social distribution (Hawking: "If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.")
+Goal.5.sec=To enable and encourage a community for the creation of federated wikis of legal documents.
+
+Goal.=[G/Z/ol-bullet/s5]
+
+ScholarlyContext=This spans a broad range of disciplines, from CS (semantic web, distributed computing, programming languages) to legal (document drafting, dispute resolution, governance). The dilemma of "Code is Law," "Code as Law," and "Codified Law," is fundamental to the shape and governance of society in the information era. What we mean by the shape: social distribution (Hawking: "If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.")<b>The course is shaped around the core ideas of several authors. Lessig's argument that code begins to define Law can be solved by making Law compatible through, by applying some of the notions Ted Nelson and the semantic web.
 
 /=Note - for each week, copy this, change 1 to 2, etc. and make a copy of the target file, changing its name.  Fill in the target info.
 
@@ -66,7 +70,7 @@ Impact=Law is public.  Legal truth — a description of where you are and what a
 
 Attraction=This course will allow us to work on a challenging topic that is directly important today. It will allow students to delve into the , and think critically about many controversial terms.
 
-CourseGap=There is no course that attempts to bridge computing and the law, nor any that focuses on Prose Objects as a solution.
+CourseGap=There is no course at Brown that attempts to bridge computing and the law, nor any in the world to our knowledge that focuses on Prose Objects as a solution.
 
 EvaluationPercentageTable=
 
