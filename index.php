@@ -1,8 +1,8 @@
-<?php 
+<?php
 
 DEFINE('ROOT' ,dirname(__FILE__) ); // Root directory of site
 
-DEFINE('URLFORREPO', 'https://github.com/CommonAccord/GISP_SemanticWeb_Cmacc');	// The repo home
+DEFINE('URLFORREPO', 'https://github.com/CommonAccord/GISP_Fusion_Law_Code');	// The repo home
 
 DEFINE('LANDING_MD', 'S/About/Landing2.md');	// The website home moved because some bot keeps overwriting Landing.md
 
