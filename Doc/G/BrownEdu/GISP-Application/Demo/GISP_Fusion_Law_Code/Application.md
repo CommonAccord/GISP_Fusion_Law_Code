@@ -41,7 +41,13 @@ Goal.0.sec=Learning goals:
 
 Goal.1.sec=To be able to critically evaluate the history and meaning of a series of highly controversial terms around the fields of Code, Law, and transacting.
 
-Goal.=[G/Z/ol-bullet/s3]
+Goal.2.sec=To engineer code solutions that demonstrate the vision of open source transacting and encourage convergence on standards.
+
+Goal.3.sec=To study and design with the core ideas and social physics of law.
+
+Goal.4.sec=To enable and encourage the creation of federated wikis of legal documents.
+
+Goal.=[G/Z/ol-bullet/s4]
 
 ScholarlyContext=This spans a broad range of disciplines, from CS (semantic web, distributed computing, programming languages) to legal (document drafting, dispute resolution, governance) The dilemma of "Code is Law," "Code as Law," and "Codified Law," is fundamental to the shape and governance of society in the information era. What we mean by the shape: social distribution (Hawking: "If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.")
 
