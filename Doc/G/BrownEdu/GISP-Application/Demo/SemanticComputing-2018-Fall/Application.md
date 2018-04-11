@@ -6,15 +6,15 @@ GISP.Semester=Fall
 
 GISP.Year=2018
 
-Person.GTH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/GTH/0.md]
+Person.GTH.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/GTH/0.md]
 
-Person.WS.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/WS/0.md]
+Person.WS.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/WS/0.md]
 
-Person.DR.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/DR/0.md]
+Person.DR.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/DR/0.md]
 
-Person.SPR.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/SPR/0.md]
+Person.SPR.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/SPR/0.md]
 
-Person.JGH.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Person/JGH/0.md]
+Person.JGH.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/JGH/0.md]
 
 Student.sec=<ol><li>{Person.GTH.Name.Full} <li>{Person.WS.Name.Full} <li>{Person.DR.Name.Full}</ol>
 
@@ -24,7 +24,7 @@ Purpose of your course=To radically improve transacting, legal dealings and demo
 
 Guiding questions={Question.Sec}
 
-Question.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Question/0.md]
+Question.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
 Goals of course=To bring together the very disparate strands of a single problem - how to effectively find and transact with others, define relationships and objectives and resolve disputes.
 
@@ -32,17 +32,17 @@ ScholarlyContext=This spans an extremely broad range of disciplines, from CS (se
 
 /=Note - for each week, copy this, change 1 to 2, etc. and make a copy of the target file, changing its name.  Fill in the target info.
 
-Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/JGH-OpenSourceLaw/0.md]
+Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/JGH-OpenSourceLaw/0.md]
 
-Syllabus.3.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/MIT-Conference/0.md]
+Syllabus.3.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/MIT-Conference/0.md]
 
-Syllabus.5.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/MIT-Conference/0.md]
+Syllabus.5.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/MIT-Conference/0.md]
 
-Syllabus.7.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/MIT-Conference/0.md]
+Syllabus.7.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/MIT-Conference/0.md]
 
-Syllabus.8.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/MIT-Conference/0.md]
+Syllabus.8.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/MIT-Conference/0.md]
 
-Syllabus.14.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/Blank/0.md]
+Syllabus.14.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/Blank/0.md]
 
 CourseStructure=Each week will consist of the participants preparing for an interview with a specialist, conducting the interview (usually by video-conference), preparing responsive materials that add to the solution and presenting the solution to the expert in a second
 conference.
@@ -59,7 +59,7 @@ EvaluationExplanation=
 
 MeetingTimes={Week.Meetings}
 
-Week.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Week/Template/0.md]
+Week.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/Template/0.md]
 
 StudentIndividualContribution=
 
@@ -69,8 +69,8 @@ FacultySponsorStatement=
 
 Supplements=<ol><li>{Topic.Sec}<li>{CourseBibliography.Sec}</ol>
 
-Topic.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Topics/0.md]
+Topic.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Topics/0.md]
 
-CourseBibliography.=[G/BrownEdu/GISP-Application/Demo/SemanticComputing-2018-Fall/Bibliography/0.md]
+CourseBibliography.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Bibliography/0.md]
 
 =[G/BrownEdu/GISP-Application/Form/0.md]
