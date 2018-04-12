@@ -45,9 +45,7 @@ Context.sec=This spans a broad range of disciplines, from CS (semantic web, dist
 
 /=Note - for each week, copy this, change 1 to 2, etc. and make a copy of the target file, changing its name.  Fill in the target info.
 
-Syllabus.1.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/JGH-OpenSourceLaw/0.md]
-
-Syllabus.14.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/Blank/0.md]
+Syllabus.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/0.md]
 
 CourseStructure=Each week will consist of the participants preparing for an interview with a specialist, conducting the interview (usually by video-conference), preparing responsive materials that add to the solution and presenting the solution to the expert in a second
 conference.
@@ -74,7 +72,7 @@ FacultySponsorPraises=
 
 FacultySponsorStatement=
 
-Supplements=<ol><li>{Topic.Sec}<li>{CourseBibliography.Sec}</ol>
+Supplements=<ol><li><a href="index.php?action=doc&file=G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Topics/0.md">Topics</a><li><a href="index.php?action=doc&file=G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Bibliography/0.md">Course Bibliography</a></ol>
 
 Topic.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Topics/0.md]
 
