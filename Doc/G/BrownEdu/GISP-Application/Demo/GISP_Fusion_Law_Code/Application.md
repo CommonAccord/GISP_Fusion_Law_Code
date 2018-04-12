@@ -41,17 +41,11 @@ Goal.0.sec=Learning goals:
 
 Goal.1.sec=To be able to critically evaluate the history and meaning of a series of highly controversial terms around the fields of Code, Law, and transacting.
 
-<<<<<<< HEAD
 Goal.2.sec=To clearly communicate how Law, Management and Governance can be made radically more efficient by structuring prose.
-
-Goal.4.sec=To critically understand and explain how structured, semantic prose enables the democratization of Law, empowerment of smaller structures and decentralized, secure data. Communication in this course involves writing, speaking, and visualization (User Interface, Data Visualization).
 
 Goal.3.sec=To work with and engineer code solutions that demonstrate the vision of open source transacting and encourage convergence on standards.
 
-Goal.4.sec=To study and design with law's core ideas and social physics.
-=======
-Goal.=[G/Z/ol-bullet/s3]
->>>>>>> parent of 455f235... Fixing link on home page and adding Goal.2,3,4
+Goal.4.sec=To critically understand and explain how structured, semantic prose enables the democratization of Law, empowerment of smaller structures and decentralized, secure data. Communication in this course involves writing, speaking, and visualization (User Interface, Data Visualization).
 
 Goal.5.sec=To enable and encourage a community for the creation of federated wikis of legal documents.
 
