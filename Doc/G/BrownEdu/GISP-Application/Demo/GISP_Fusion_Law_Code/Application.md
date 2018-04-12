@@ -16,7 +16,7 @@ Purpose of your course=To radically improve transacting, legal dealings and demo
 
 The terms smart contracts (code that enables transactions), distributed data models (data stored across several systems), wikis (founded on the principle that anyone can expand any piece), legal "objects" ().
 Ted Nelson, Tim Burners-Lee: Semantic
-Lesseg
+Lessig
 
 John Perry Barlow, with the declaration of cyberspace, imagined that it all ended up distributed. But it all ended up on Facebook. Lessig warns us of this. We currently are standing before a similar precipice, except that it involves law, that is to sat all relationships, encompassing the system of production and governance.
 There is still a use for the legal profession: fairness, governance, sustainability (how do the smaller structures have leverage over the larger ones?)
