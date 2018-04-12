@@ -74,7 +74,20 @@ CourseGap=There is no course at Brown that attempts to bridge computing and the 
 
 EvaluationPercentageTable=
 
-EvaluationExplanation=
+EvaluationExplanation={Eval.sec}
+Eval.0.sec=The Evaluation will be based off of several aspects:
+
+Eval.1.sec=Class Participation: This involves demonstrating thoughtful preparation of readings and other material to be discussed in class. This includes active class participation. Additionally, during each class, one or several students will be assigned with the task of taking notes and formalizing them.
+
+Eval.2.sec=Midterm: Preparing for the workshops at the MIT forum on October 31st. These involve preparing and participating in the conference.
+
+Eval.3.sec=Labs: Completing a series of introductory labs to become familiar with GIT and the CommonAccord system.
+
+Eval.4.sec=Open source development: Each student will prepose a series of projects based off of the material discussed in class that they would like to work on. These can include applying open source-software development and semantic computing to solve problems at the university (Entrepreneurship, Watson Center), improving the user Interface, coding integration with databases to bridge the links (Google Maps, Containers, JSON).
+
+Eval.5.sec=Final: Writing the final paper is a project that begins even on the first day of class. This involves actively participating in the definitions of terms that each student will be given to research and document. It also requires synthesizing the content learned in the other three sections.
+
+Eval.=[G/Z/ol-bullet/s5]
 
 MeetingTimes={Week.Meetings}
 
