@@ -23,9 +23,8 @@ There is still a use for the legal profession: fairness, governance, sustainabil
 
 Purchase Agreement: Knowing what a company
 Privacy breeches
-Guiding questions={Question.Sec}
 
-Question.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
+Guiding questions={Question.sec}
 
 Goals of course={Goal.sec}
 
@@ -56,6 +55,7 @@ Impact.sec=Law is public.  Legal truth — a description of where you are and wh
 
 Attraction.sec=This course will allow us to work on a challenging topic that is directly important today. It will allow students to delve into the subjects of law and code, and think critically about many controversial issues.
 
+Theme.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
 CourseGap.sec=Simply put, there is no course at Brown that attempts to bridge computing and the law, which reflects why the course has such a large number of students --particularly upperclassmen-- that want to participate. In the research done to create this course, we have not found any course or initiative in the world that uses a system similar to the "Prose Object" model, or a semantic web and applies it to formal dealings.
 
