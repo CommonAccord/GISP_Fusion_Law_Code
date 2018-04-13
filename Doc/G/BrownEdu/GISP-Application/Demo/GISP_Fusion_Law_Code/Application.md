@@ -12,9 +12,7 @@ Student.sec=<ol><li>{Person.GTH.Name.Full} <li>{Person.WS.Name.Full} <li>{Person
 
 Faculty.sec={Person.SPR.N/A/T/E}
 
-Purpose of your course=To radically improve transacting, legal dealings and democratic governance by studying and applying some fundamental principles from open source-software development. To bring together the very disparate strands of a single problem - how to effectively find and transact with others, define relationships and objectives, and resolve disputes.<br>In specific, to explore the "Prose Objects" semantic computing model that is at the intersection of legal codification, smart contracts and distributed data models. This "Prose Object" model will be explored by using and understanding its implementation demonstrated CommonAccord.org. Thus we will explore how to create decentralized, privacy-preserving wikis of automated legal "objects," that can be tailored for every situation. The principle is to specify new cases simply by referencing existing ones and marking only what is different.
-
-The terms smart contracts (code that enables transactions), distributed data models (data stored across several systems), wikis (founded on the principle that anyone can expand any piece), legal "objects" ().
+Purpose of your course=To radically improve transacting, legal dealings and democratic governance by studying and applying some fundamental principles from open source-software development. The course will teach the history and meaning of legal and software terms, how legal transactions currently happen, and how technology can make the current process better. The course will involve a series of interviews with experts in the fields, based off readings around code and law. Students will concurrently develop and apply the already functional model demonstrated by CommonAccord.org, through coding and theory assignments adapted to every level. <br> The course aims to study and bring together the very disparate strands of a single problem - how to effectively find and transact with others, define relationships and objectives, and resolve disputes.<br> In specific, we will explore the "Prose Objects" semantic computing model that is at the intersection of legal codification, smart contracts and distributed data models. We will study the impacts and implications of the this model relating to law theory, management and governance. We will understand and define this model to create decentralized, privacy-preserving wikis of automated legal "objects," that can be tailored for every situation. The principle is to specify new cases simply by referencing existing ones and marking only what is different. We will define terms such as smart contracts (code that enables transactions), distributed data models (data stored across several systems), wikis (founded on the principle that anyone can expand any piece), "prose objects" (a way of handling lists to create full texts that permits non-coders to code an structure texts).
 Ted Nelson, Tim Burners-Lee: Semantic
 Lessig
 
@@ -56,7 +54,8 @@ Impact.sec=Law is public.  Legal truth — a description of where you are and wh
 
 Attraction.sec=This course will allow us to work on a challenging topic that is directly important today. It will allow students to delve into the subjects of law and code, and think critically about many controversial issues.
 
-CourseGap.sec=There is no course that attempts to bridge computing and the law, nor any that focuses on Prose Objects as a solution.
+
+CourseGap.sec=Simply put, there is no course at Brown that attempts to bridge computing and the law, which reflects why the course has such a large number of students --particularly upperclassmen-- that want to participate. In the research done to create this course, we have not found any course or initiative in the world that uses a system similar to the "Prose Object" model, or a semantic web and applies it to formal dealings.
 
 EvaluationPercentageTable=
 
