@@ -26,6 +26,8 @@ Privacy breeches
 
 Guiding questions={Question.sec}
 
+GuidingQuestions.sec=Law, management and governance rely on structured information, expressed as prose. How can you structure information in a way that expresses structured thought? How can you have a system that can both be read easily by humans and is compatible with machines? Should formal legal information still be expressed as prose? Why is this important? What are the impacts of such a system? What parts of social structures does this change? What is the role of lawyers and law in a world without legal opacity? What are the impacts to management and governance?
+
 Goals of course={Goal.sec}
 
 Goal.0.sec=Learning goals:
