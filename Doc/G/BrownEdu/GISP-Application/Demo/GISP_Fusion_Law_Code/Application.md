@@ -61,7 +61,7 @@ Theme.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
 CourseGap.sec=Simply put, there is no course at Brown that attempts to bridge computing and the law, which reflects why the course has such a large number of students --particularly upperclassmen-- that want to participate. In the research done to create this course, we have not found any course or initiative in the world that uses a system similar to the "Prose Object" model, or a semantic web and applies it to formal dealings.
 
-EvaluationPercentageTable=
+EvaluationPercentageTable=30% Class participation <br>20% Midterm <br>30% Engagement in class projects<br>20% Final
 
 EvaluationExplanation={Eval.sec}
 Eval.0.sec=The Evaluation will be based off of several aspects:
@@ -74,7 +74,7 @@ Eval.3.sec=Labs: Completing a series of introductory labs to become familiar wit
 
 Eval.4.sec=Open source development: Each student will prepose a series of projects based off of the material discussed in class that they would like to work on. These can include applying open source-software development and semantic computing to solve problems at the university (Entrepreneurship, Watson Center), improving the user Interface, coding integration with databases to bridge the links (Google Maps, Containers, JSON).
 
-Eval.5.sec=Final: Writing the final paper is a project that begins even on the first day of class. This involves actively participating in the definitions of terms that each student will be given to research and document. It also requires synthesizing the content learned in the other three sections.
+Eval.5.sec=Final: Writing the final paper is a project that begins even on the first day of class. This involves actively participating in the definitions of terms that each student will be given to research and document. It also requires synthesizing the content learned in the other sections.
 
 Eval.=[G/Z/ol-bullet/s5]
 
