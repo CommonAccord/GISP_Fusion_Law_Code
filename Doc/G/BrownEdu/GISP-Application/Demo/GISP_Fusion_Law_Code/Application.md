@@ -61,20 +61,21 @@ Theme.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
 CourseGap.sec=Simply put, there is no course at Brown that attempts to bridge computing and the law, which reflects why the course has such a large number of students --particularly upperclassmen-- that want to participate. In the research done to create this course, we have not found any course or initiative in the world that uses a system similar to the "Prose Object" model, or a semantic web and applies it to formal dealings.
 
-EvaluationPercentageTable=30% Class participation <br>20% Midterm <br>30% Engagement in class projects<br>20% Final
+EvaluationPercentageTable=30% Class participation <br>20% Midterm <br>30% Engagement in class projects and Lab completion<br>20% Final Report to Brown cooperation.
 
-EvaluationExplanation={Eval.sec}
+EvaluationExplanation={Eval.sec} Note: all written reports will be written using Prose object and git
+
 Eval.0.sec=The Evaluation will be based off of several aspects:
 
-Eval.1.sec=Class Participation: This involves demonstrating thoughtful preparation of readings and other material to be discussed in class. This includes active class participation. Additionally, during each class, one or several students will be assigned with the task of taking notes and formalizing them.
+Eval.1.sec=Class Participation: This involves demonstrating thoughtful preparation of readings and other material to be discussed in class. This includes attendance and active class participation. Additionally, during each class, one or several students will be assigned with the task of taking notes and formalizing them.
 
-Eval.2.sec=Midterm: Preparing for the workshops at the MIT forum on October 31st. These involve preparing and participating in the conference.
+Eval.2.sec=Midterm: Preparing for the workshops at the MIT forum on October 31st. These involve preparing in the conference (working on the slides, model documents, report), and also particpating in the conference. The MIT Connection Science conference will present to legal leaders the potentials and challenges of frictionless transacting.  This is essentially "Social Physics" as articulated by Professor Pentland, with the Prose Object model as more-or-less the atomic structure.
 
 Eval.3.sec=Labs: Completing a series of introductory labs to become familiar with GIT and the CommonAccord system.
 
-Eval.4.sec=Open source development: Each student will prepose a series of projects based off of the material discussed in class that they would like to work on. These can include applying open source-software development and semantic computing to solve problems at the university (Entrepreneurship, Watson Center), improving the user Interface, coding integration with databases to bridge the links (Google Maps, Containers, JSON).
+Eval.4.sec=Projects: Each student will prepose a series of projects based off of the material discussed in class that they would like to work on. These can include applying open source-software development and semantic computing to solve problems at the university (Entrepreneurship, Watson Center), improving the user Interface, coding integration with databases to bridge the links (Google Maps, Containers, JSON). These involve both communication adn
 
-Eval.5.sec=Final: Writing the final paper is a project that begins even on the first day of class. This involves actively participating in the definitions of terms that each student will be given to research and document. It also requires synthesizing the content learned in the other sections.
+Eval.5.sec=Final: Writing the final paper is a project that begins even on the first day of class. This involves actively participating in the definitions of terms that each student will be given to research and document. It also requires synthesizing the content learned in the other sections. Students will be evaluated based off of their git contributions to the document.
 
 Eval.=[G/Z/ol-bullet/s5]
 
