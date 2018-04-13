@@ -27,7 +27,7 @@ Guiding questions={Question.Sec}
 
 Question.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
-Goals of course={Goal.Sec}
+Goals of course={Goal.sec}
 
 Goal.0.sec=Learning goals:
 
