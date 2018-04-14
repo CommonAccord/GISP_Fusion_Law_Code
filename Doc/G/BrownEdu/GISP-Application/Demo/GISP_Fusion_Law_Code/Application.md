@@ -87,7 +87,7 @@ StudentIndividualContribution=
 
 FacultySponsorPraises=Our faculty sponsor is the right choice, since they are specialized in making programming easier, as the course aims at programming prose for non-coders. Their expertise in User Interfaces, software visualization, along with their recent work in peer-to-peer computing and open source makes them an ideal advisor for a course that focuses on democratizing law and standardizing prose documents to enable open source collaboration.
 
-FacultySponsorStatement=
+FacultySponsorStatement=(see PDF)
 
 Supplements=<ol><li><a href="index.php?action=doc&file=G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Topics/0.md">Topics</a><li><a href="index.php?action=doc&file=G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Bibliography/0.md">Course Bibliography</a></ol>
 
