@@ -11,7 +11,6 @@ Person.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/0.md]
 StudentCoordinator.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/GTH/0.md]
 
 Student.sec=(See google doc form)
-// format to display students: <ol><li>{Person.GTH.Name.Full} <li>{Person.WS.Name.Full} <li>{Person.DR.Name.Full}</ol>
 
 Faculty.sec={Person.SPR.N/A/T/E}
 
