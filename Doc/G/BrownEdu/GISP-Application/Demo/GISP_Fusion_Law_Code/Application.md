@@ -8,6 +8,8 @@ GISP.Year=2018
 
 Person.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/0.md]
 
+Person.CW.Name.First=Charlene
+
 StudentCoordinator.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/GTH/0.md]
 
 Student.sec=(See google doc form)
@@ -73,7 +75,7 @@ Eval.2.sec=Midterm: Preparing for the workshops at the MIT forum on October 31st
 
 Eval.3.sec=Labs: Completing a series of introductory labs to become familiar with GIT and the CommonAccord system.
 
-Eval.4.sec=Projects: Each student will prepose a series of projects based off of the material discussed in class that they would like to work on. These can include applying open source-software development and semantic computing to solve problems at the university (Entrepreneurship, Watson Center), improving the user Interface, coding integration with databases to bridge the links (Google Maps, Containers, JSON). These involve both communication adn
+Eval.4.sec=Projects: Each student will prepose a series of projects based off of the material discussed in class that they would like to work on. These can include applying open source-software development and semantic computing to solve problems at the university (Entrepreneurship, Watson Center), improving the user Interface, coding integration with databases to bridge the links (Google Maps, Containers, JSON).
 
 Eval.5.sec=Final: Writing the final paper is a project that begins even on the first day of class. This involves actively participating in the definitions of terms that each student will be given to research and document. It also requires synthesizing the content learned in the other sections. Students will be evaluated based off of their git contributions to the document.
 
@@ -83,7 +85,7 @@ MeetingTimes={Week.Meetings}
 
 Week.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/Template/0.md]
 
-StudentIndividualContribution={Person.CW.Name} (Charlene) will lead the section for Interfacing to Existing Systems and Semantic Computing at Brown. Coming from a software engineering and statistics background, she has worked on several computer systems and developed semantics applications. Thus, she is excited to research the possible computing solutions to make the fusion of code and law a reality. 
+StudentIndividualContribution={Person.CW.Name.First} will lead the section for Interfacing to Existing Systems and Semantic Computing at Brown. Coming from a software engineering and statistics background, she has worked on several computer systems and developed semantics applications. Thus, she is excited to research the possible computing solutions to make the fusion of code and law a reality.
 
 
 FacultySponsorPraises=Our faculty sponsor is the right choice, since they are specialized in making programming easier, as the course aims at programming prose for non-coders. Their expertise in User Interfaces, software visualization, along with their recent work in peer-to-peer computing and open source makes them an ideal advisor for a course that focuses on democratizing law and standardizing prose documents to enable open source collaboration.
