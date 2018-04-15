@@ -11,7 +11,7 @@ if (strlen($document) > $minDocLength){
  
   echo $document;}
  else {
-   echo "Nothing to Show - because there is i) no Model.Root, or ii) a reference to a non-existent Map, or iii) a circular key inclusion (usually an effect of deprefixing!).";
+   echo "Nothing to Show - because there is i) no Model.Root, or ii) a reference to a non-existent Map, or iii) a circular key inclusion (usually an effect of deprefixing!).<br>Or you have looked for a page that doesn't exist.  If you are merely lost - try <a href='index.php?action=list&file='>the top of the file system</a>.";
 
 
 }
