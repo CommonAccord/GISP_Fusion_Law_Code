@@ -75,7 +75,7 @@ Theme.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
 CourseGap.sec=Simply put, there is no course at Brown that attempts to bridge computing and the law, which reflects why the course has such a large number of students --particularly upperclassmen-- that want to participate. In the research done to create this course, we have not been able to find any course or even initiative in the world that uses a system similar to the "Prose Object" model. This course can be understood as a survey of the methods and technologies of code and law, as a project to knit them together, or as a kind of inverse of the “coding for lawyers” that some law schools are doing.
 
-EvaluationPercentageTable=30% Class participation <br>20% Midterm <br>30% Engagement in class projects and Lab completion<br>20% Final Report to Brown cooperation.
+EvaluationPercentageTable=45% Class participation <br>20% Midterm <br>15% Engagement in class projects and Lab completion<br>20% Final Report to Brown cooperation.
 
 EvaluationExplanation={Eval.sec} Note: all written reports will be written using Prose object and git
 
