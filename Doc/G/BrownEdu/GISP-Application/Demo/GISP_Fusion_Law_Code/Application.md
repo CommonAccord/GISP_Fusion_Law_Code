@@ -10,13 +10,26 @@ Person.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/0.md]
 
 Person.CW.Name.First=Charlene
 
+Person.CW.Name.First.2=Alexi
+
 StudentCoordinator.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Person/GTH/0.md]
 
 Student.sec=(See google doc form)
 
 Faculty.sec={Person.SPR.N/A/T/E}
 
-Purpose of your course=To radically improve transacting, legal dealings and democratic governance by studying and applying some fundamental principles from open source-software development. The course will teach the history and meaning of legal and software terms, how legal transactions currently happen, and how technology can make the current process better. The course will involve a series of interviews with experts in the fields, based off readings around code and law. Students will concurrently develop and apply the already functional model demonstrated by CommonAccord.org, through coding and theory assignments adapted to every level. We will study and bring together the very disparate strands of a single problem - how to effectively find and transact with others, define relationships and objectives, and resolve disputes.<br> In specific, we will explore the "Prose Objects" semantic computing model that is at the intersection of legal codification, smart contracts and distributed data models. We will study the impacts and implications of the this model relating to law theory, management and governance. We will understand and define this model to create decentralized, privacy-preserving wikis of automated legal "objects," that can be tailored for every situation. The principle is to specify new cases simply by referencing existing ones and marking only what is different. We will define terms such as smart contracts (code that enables transactions), distributed data models (data stored across several systems), wikis (founded on the principle that anyone can expand any piece), "prose objects" (a way of handling lists to create full texts that permits non-coders to code an structure texts).
+Contribution.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Contribution/0.md]
+
+Purpose.2.sec={Contribution.BJ.1.1.sec}
+
+Purpose.1.sec=To radically improve transacting, legal dealings and democratic governance by studying and applying some fundamental principles from open source-software development. The course will teach the history and meaning of legal and software terms, how legal transactions currently happen, and how technology can improve the process.
+
+WAS/Purpose.2.sec=The course will involve a series of interviews with experts in applicable fields, such as consumer protection, personal data store, sustainability, etc., and the interviews will be supplemented with relevant weekly readings around code and law. Students will concurrently develop and apply the already functional model demonstrated by CommonAccord.org, through coding and theory assignments adapted to every level. We will study and bring together the very disparate strands of a single problem - how to effectively find and transact with others, define relationships and objectives, and resolve disputes.
+
+Purpose.3.sec=In specific, we will explore the "Prose Objects" semantic computing model that is at the intersection of legal codification, smart contracts and distributed data models. We will study the impacts and implications of the this model relating to law theory, management and governance. We will understand and define this model to create decentralized, privacy-preserving wikis of automated legal "objects," that can be tailored for every situation. The principle is to specify new cases simply by referencing existing ones and marking only what is different. We will define terms such as smart contracts (code that enables transactions), distributed data models (data stored across several systems), wikis (founded on the principle that anyone can expand any piece), "prose objects" (a way of handling lists to create full texts that permits non-coders to code an structure texts).
+
+Purpose.=[G/Z/ol/s3]
+
 Ted Nelson, Tim Burners-Lee: Semantic
 Lessig
 
@@ -62,7 +75,7 @@ Theme.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Question/0.md]
 
 CourseGap.sec=Simply put, there is no course at Brown that attempts to bridge computing and the law, which reflects why the course has such a large number of students --particularly upperclassmen-- that want to participate. In the research done to create this course, we have not been able to find any course or even initiative in the world that uses a system similar to the "Prose Object" model. This course can be understood as a survey of the methods and technologies of code and law, as a project to knit them together, or as a kind of inverse of the “coding for lawyers” that some law schools are doing.
 
-EvaluationPercentageTable=30% Class participation <br>20% Midterm <br>30% Engagement in class projects and Lab completion<br>20% Final Report to Brown cooperation.
+EvaluationPercentageTable=45% Class participation <br>20% Midterm <br>15% Engagement in class projects and Lab completion<br>20% Final Report to Brown cooperation.
 
 EvaluationExplanation={Eval.sec} Note: all written reports will be written using Prose object and git
 
@@ -84,7 +97,12 @@ MeetingTimes={Week.Meetings}
 
 Week.=[G/BrownEdu/GISP-Application/Demo/GISP_Fusion_Law_Code/Week/Template/0.md]
 
-StudentIndividualContribution={Person.CW.Name.First} will lead the section for Interfacing to Existing Systems and Semantic Computing at Brown. Coming from a software engineering and statistics background, she has worked on several computer systems and developed semantics applications. Thus, she is excited to research the possible computing solutions to make the fusion of code and law a reality.
+StudentIndividualContribution={Person.CW.Name.First} will lead the section for Interfacing to Existing Systems and Semantic Computing at Brown. Coming from a software engineering and statistics background, she has worked on several computer systems and developed semantics applications. Thus, she is excited to research the possible computing solutions to make the fusion of code and law a reality.<br>Alexi contributed to the application by adding resources and readings to the bibliography and rephrasing some jargon to make the document more accessible. She has interned at the RI State House in the Senate Policy Office and will bring this background to the idea of using computational law to make  state law more efficient and tailored to specific state needs. Thus, she added to the readings and lesson plans of governance sections, specifically week 5, 10 and 14.<br>Kanha provided some suggested readings on the link between version control systems(like git) and law, how the two can be put in connection with each other, and the drawbacks of doing so.<br>Jake worked on a week on governance experiments in the blockchain space. He suggested adding ‘The whole is always smaller than its parts’ – a digital test of Gabriel Tardes’ monads" to the readings on the graph's week, and wanted to talk about Kleros (distributed adjudication) and Aragon initiatives. He suggested the parts on systems engineering and looking at how machine readable documents can allow us to restructure networks, following principles of Game Theory and Mechanism design.<br>Alexandra researched good intros to graph theory and compiled some pre-work for the graph lesson. She will also create the assignments for lesson 5, with separate coding assignments for CS concentrators and non-concentrators. She will help lead and design the lesson on Graphs.<br>Bessie: {Contribution.BJ.1.2.sec}  {Contribution.BJ.2.sec}<br>Drew adds: {Contribution.DT.1.sec}<br>Geoffrey wrote and structured a large part of the syllabus, including background research on related topics, and met with the interested students to explain his ideas for the course.
+
+
+
+
+
 
 
 FacultySponsorPraises=Our faculty sponsor is the right choice, since they are specialized in making programming easier, as the course aims at programming prose for non-coders. Their expertise in User Interfaces, software visualization, along with their recent work in peer-to-peer computing and open source makes them an ideal advisor for a course that focuses on democratizing law and standardizing prose documents to enable open source collaboration.
