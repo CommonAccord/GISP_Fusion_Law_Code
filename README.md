@@ -1,2 +1,2 @@
 # GISP_SemanticWeb_Cmacc
-Full website for GISP
+Full proposal for GISP in the cmacc data-format
